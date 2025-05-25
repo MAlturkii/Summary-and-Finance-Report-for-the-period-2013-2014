@@ -15,3 +15,9 @@ Key components of the Finance Report include:
 1️⃣ Product Profitability Analysis: I analyzed the profitability of products (Velo, Paseo, VVT, Amarilla, and Carretera) during the specified period. This analysis helps us understand which products are driving the most significant profits and identify areas for improvement.
 
 2️⃣ Monthly and Yearly Profit Trends: Using visually appealing charts and graphs, I showcased the monthly and yearly profit trends across the specified time frame. This allows us to identify seasonal variations, observe growth patterns, and make informed decisions based on historical data.
+
+• Profit Analysis by Segments
+• Regional Profit Analysis
+• Product Profitability Analysis
+• Monthly and Yearly Profit Trends 
+• Profit Analysis by Regions and Segments
